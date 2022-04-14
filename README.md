@@ -23,6 +23,7 @@ You can know more about me visiting my profiles on social networks:
 ![](https://img.shields.io/badge/Language-Python-informational?&logo=python&logoColor=white&color=%233776AB)
 ![](https://img.shields.io/badge/Language-C-informational?&logo=c&logoColor=white&color=%23A8B9CC)
 ![](https://img.shields.io/badge/Language-GNU/Bash-informational?&logo=gnubash&logoColor=white&color=%234EAA25)
+![](https://img.shields.io/badge/Language-SQL-informational?&logo=ibm&logoColor=white&color=%23052FAD)
 
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-informational?&logo=visualstudio&logoColor=white&color=%235C2D91)
 ![](https://img.shields.io/badge/IDE-Android%20Studio-informational?&logo=androidstudio&logoColor=white&color=%233DDC84)
