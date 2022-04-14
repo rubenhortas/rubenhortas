@@ -4,7 +4,7 @@
 - 🌱 I’m always learning about programming. 
 - 🔒 I'm now learning (again, a bit) about cyber security.
 
-You can learn more about me visiting my profiles on social networks:
+You can know more about me visiting my profiles on social networks:
 
 [<img src="https://img.shields.io/badge/linkedin-rubenhortas-informational?&logo=linkedin&logoColor=white&color=%230A66C2">](https://www.linkedin.com/in/rubenhortas)
 
