@@ -5,7 +5,6 @@
 - 🔒 I'm now learning (again, a bit) about cyber security.
 
 ### Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenhortas&count_private=true&show_icons=true&theme=dark)
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=rubenhortas&count_private=true&show_icons=true&theme=dark"> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenhortas&layout=compact&theme=dark">
 
-![GitHub followers](https://img.shields.io/github/followers/rubenhortas?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/rubenhortas?style=social)
+![GitHub followers](https://img.shields.io/github/followers/rubenhortas?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/rubenhortas?style=social)
