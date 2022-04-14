@@ -7,7 +7,8 @@
 
 You can know more about me visiting my profiles on social networks:
 
-[<img src="https://img.shields.io/badge/linkedin-rubenhortas-informational?&logo=linkedin&logoColor=white&color=%230A66C2">](https://www.linkedin.com/in/rubenhortas) [<img src="https://img.shields.io/badge/google dev-rubenhortas-informational?&logo=google&logoColor=white&color=%234285F4">](https://developers.google.com/profile/u/rubenhortas)
+[<img src="https://img.shields.io/badge/Linkedin-rubenhortas-informational?&logo=linkedin&logoColor=white&color=%230A66C2">](https://www.linkedin.com/in/rubenhortas) 
+[<img src="https://img.shields.io/badge/Google%20developer-rubenhortas-informational?&logo=google&logoColor=white&color=%234285F4">](https://developers.google.com/profile/u/rubenhortas)
 
 ### Skills
 ![](https://img.shields.io/badge/Language-VB.NET-informational?&logo=.net&logoColor=white&color=%23512BD4)
