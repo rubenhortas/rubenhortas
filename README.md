@@ -3,7 +3,7 @@
 - 💻 I’m currently working as a software engineer, mainly with .net, sql and android technologies.
 - 🌱 I’m always learning about programming. 
 - 🔒 I'm now learning (again, a bit) about cybersecurity.
-- 📫 You can reach me at rubenhortas@gmail.com
+- 📫 You can reach me at linkedin or at rubenhortas[@]gmail.com
 
 You can know more about me visiting my profiles on social networks:
 
