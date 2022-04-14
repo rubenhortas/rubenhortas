@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rubenhortas)
-
 ### 👋 Hi! About me:
 
 - 💻 I’m currently working as a software engineer, mainly with .net and android technologies.
@@ -13,7 +11,7 @@ You can know more about me visiting my profiles on social networks:
 
 [<img src="https://img.shields.io/badge/google dev-rubenhortas-informational?&logo=google&logoColor=white&color=%234285F4">](https://developers.google.com/profile/u/rubenhortas)
 
-### Github
+### Github stats
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rubenhortas&count_private=true&show_icons=true&theme=dark"> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenhortas&layout=compact&theme=dark">
 
 ![GitHub followers](https://img.shields.io/github/followers/rubenhortas?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/rubenhortas?style=social)
@@ -46,3 +44,5 @@ You can know more about me visiting my profiles on social networks:
 ### Operating systems
 ![](https://img.shields.io/badge/Operating%20System-Debian%20GNU%2FLinux-informational?&logo=debian&logoColor=white&color=%23A81D33)
 ![](https://img.shields.io/badge/Operating%20System-Windows-informational?&logo=windows&logoColor=white&color=%230078D6)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rubenhortas)
