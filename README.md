@@ -1,6 +1,6 @@
 ### 👋 Hi! About me:
 
-- 💻 I’m currently working as a software engineer, mainly with .net and android technologies.
+- 💻 I’m currently working as a software engineer, mainly with .net, sql and android technologies.
 - 🌱 I’m always learning about programming. 
 - 🔒 I'm now learning (again, a bit) about cyber security.
 - 📫 You can reach me at rubenhortas@gmail.com
