@@ -31,9 +31,9 @@ You can know more about me visiting my profiles on social networks:
 ![](https://img.shields.io/badge/Framework-Android-informational?&logo=android&logoColor=white&color=%233DDC84)
 ![](https://img.shields.io/badge/Framework-Xamarin-informational?&logo=xamarin&logoColor=white&color=%233498DB)
 
-![](https://img.shields.io/badge/Version%20Control-Github-informational?&logo=github&logoColor=white&color=%23181717)
 ![](https://img.shields.io/badge/Version%20Control-TFS-informational?&logo=.net&logoColor=white&color=%23512BD4)
 ![](https://img.shields.io/badge/Version%20Control-Git-informational?&logo=git&logoColor=white&color=%23F05032)
+![](https://img.shields.io/badge/Version%20Control-Github-informational?&logo=github&logoColor=white&color=%23181717)
 
 ![](https://img.shields.io/badge/Operating%20System-Debian%20GNU%2FLinux-informational?&logo=debian&logoColor=white&color=%23A81D33)
 ![](https://img.shields.io/badge/Operating%20System-Windows-informational?&logo=windows&logoColor=white&color=%230078D6)
