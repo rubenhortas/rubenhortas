@@ -20,7 +20,7 @@ You can know more about me visiting my profiles on social networks:
 [<img src="https://img.shields.io/badge/Language-Python-informational?&logo=python&logoColor=white&color=%233776AB">](https://en.wikipedia.org/wiki/Python_(programming_language))
 [<img src="https://img.shields.io/badge/Language-GNU/Bash-informational?&logo=gnubash&logoColor=white&color=%234EAA25">](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [<img src="https://img.shields.io/badge/Language-C-informational?&logo=c&logoColor=white&color=%23A8B9CC">](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img src="https://img.shields.io/badge/Language-Lua-informational?&logo=lua&logoColor=white&color=%23000080">](https://en.wikipedia.org/wiki/Lua_(programming_language))
+[<img src="https://img.shields.io/badge/Language-Lua-informational?&logo=lua&logoColor=white&color=%232C2D72">](https://en.wikipedia.org/wiki/Lua_(programming_language))
 
 [<img src="https://img.shields.io/badge/IDE-Visual%20Studio-informational?&logo=visualstudio&logoColor=white&color=%235C2D91">](https://visualstudio.microsoft.com/en/vs/)
 [<img src="https://img.shields.io/badge/IDE-Android%20Studio-informational?&logo=androidstudio&logoColor=white&color=%233DDC84">](https://developer.android.com/studio)
@@ -36,8 +36,8 @@ You can know more about me visiting my profiles on social networks:
 [<img src="https://img.shields.io/badge/Version%20Control-Git-informational?&logo=git&logoColor=white&color=%23F05032">](https://es.wikipedia.org/wiki/Git)
 [<img src="https://img.shields.io/badge/Version%20Control-Github-informational?&logo=github&logoColor=white&color=%23181717">](https://es.wikipedia.org/wiki/GitHub)
 
-![](https://img.shields.io/badge/Operating%20System-Debian%20GNU%2FLinux-informational?&logo=debian&logoColor=white&color=%23A81D33)
-![](https://img.shields.io/badge/Operating%20System-Windows-informational?&logo=windows&logoColor=white&color=%230078D6)
+[<img src="https://img.shields.io/badge/Operating%20System-Debian%20GNU%2FLinux-informational?&logo=debian&logoColor=white&color=%23A81D33">](https://en.wikipedia.org/wiki/Debian)
+[<img src="https://img.shields.io/badge/Operating%20System-Windows-informational?&logo=windows&logoColor=white&color=%230078D6">](https://en.wikipedia.org/wiki/Microsoft_Windows)
 
 ### Github stats
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rubenhortas&count_private=true&show_icons=true&theme=dark"> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenhortas&layout=compact&theme=dark">
