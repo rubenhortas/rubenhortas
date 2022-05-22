@@ -3,7 +3,7 @@
 - 💻 I’m currently working as a software engineer, mainly with .net, sql and android technologies.
 - 🌱 I’m always learning about programming. 
 - 🔒 I'm now learning (again, a bit) about cybersecurity.
-- 📚 I have some [licences and certifications](https://github.com/rubenhortas/certifications "my licenses and certifications") too.
+- 📚 I have some [licenses and certifications](https://github.com/rubenhortas/certifications "my licenses and certifications") too.
 - 📝 I also write in [https://rubenhortas.github.io](https://rubenhortas.github.io "my personal blog on github")
 - 📫 You can reach me at linkedin or at rubenhortas[@]gmail.com
 
