@@ -5,7 +5,7 @@
 - 🔒 I'm now learning (again, a bit) about cybersecurity.
 - 📚 I have some [licenses and certifications](https://github.com/rubenhortas/certifications "my licenses and certifications") too.
 - 📝 I also write in [https://rubenhortas.github.io](https://rubenhortas.github.io "my personal blog on github")
-- 📫 You can reach me at linkedin or at rubenhortas[@]gmail.com
+- 📫 You can reach me at linkedin or at rubenhortas@gmail.com
 
 You can know more about me visiting my profiles on social networks:
 
