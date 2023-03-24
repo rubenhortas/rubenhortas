@@ -1,6 +1,6 @@
 ### 👋 Hi! About me:
 
-- 💻 I’m currently working as a software engineer, mainly with .net, sql and android technologies.
+- 💻 I’m currently working as software engineer, mainly with .net, sql and android technologies.
 - 🌱 I’m always learning about programming and computer related stuff. 
 - 🔒 I'm now learning (again, a bit) about cybersecurity.
 - 📚 I have some [licenses and certifications](https://github.com/rubenhortas/certifications "my licenses and certifications") too.
