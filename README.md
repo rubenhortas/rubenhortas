@@ -1,10 +1,10 @@
 ### 💻 Whoami:
 
-- 🏢 I’m currently working as software engineer, mainly with .net, sql and android technologies.
-- 📒 I’m always learning about programming and computer related stuff.
-- 🔐 I'm now learning (again, a bit) about cybersecurity.
+- 💼 I’m currently working as software engineer, mainly with .net, sql and android technologies.
+- 📚  I’m always learning about programming and computer related stuff.
+- 🔒 I'm now learning (again, a bit) about cybersecurity.
 - 📝 I also write in [https://rubenhortas.github.io](https://rubenhortas.github.io "my personal blog on github")
-- 📧 You can reach me by [linkedin](https://www.linkedin.com/in/rubenhortas) or at rubenhortas@gmail.com
+- 📫 You can reach me by [linkedin](https://www.linkedin.com/in/rubenhortas) or at rubenhortas@gmail.com
 
 You can know more about me visiting my profiles on social networks:
 
