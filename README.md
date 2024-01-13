@@ -1,4 +1,4 @@
-### 💻 Whoami:
+### 💻 whoami:
 
 - 💼 I’m currently working as software engineer, mainly with .net, sql and android technologies.
 - 📚  I’m always learning about programming and computer related stuff.
