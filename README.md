@@ -3,7 +3,7 @@
 - 💼 I’m currently working as software engineer, mainly with .net, sql and android technologies.
 - 📚  I’m always learning about programming and computer related stuff.
 - 🔒 I'm now learning (again, a bit) about cybersecurity.
-- :octocat: I did some gists too: [gist.github.com/rubenhortas](https://gist.github.com/rubenhortas/)
+- :octocat: I do some gists too: [gist.github.com/rubenhortas](https://gist.github.com/rubenhortas/)
 - 📝 I also write in [https://rubenhortas.github.io](https://rubenhortas.github.io "my personal blog on github")
 - 📫 You can reach me by [linkedin](https://www.linkedin.com/in/rubenhortas) or at rubenhortas@gmail.com
 
