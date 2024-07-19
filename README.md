@@ -42,7 +42,3 @@ You can know more about me visiting my profiles on social networks:
 
 ### :octocat: Github stats
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rubenhortas&count_private=true&show_icons=true&theme=dark"> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenhortas&layout=compact&theme=dark">
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rubenhortas)
-![GitHub followers](https://img.shields.io/github/followers/rubenhortas?style=social) 
-![GitHub User's stars](https://img.shields.io/github/stars/rubenhortas?style=social)
