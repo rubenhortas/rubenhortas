@@ -35,7 +35,6 @@ You can know more about me visiting my profiles on social networks:
 
 [<img src="https://img.shields.io/badge/Version%20Control-Git-informational?&logo=git&logoColor=white&color=%23F05032">](https://es.wikipedia.org/wiki/Git)
 [<img src="https://img.shields.io/badge/Version%20Control-Github-informational?&logo=github&logoColor=white&color=%23181717">](https://es.wikipedia.org/wiki/GitHub)
-[<img src="https://img.shields.io/badge/Version%20Control-TFS-informational?&logo=.net&logoColor=white&color=%23512BD4">](https://en.wikipedia.org/wiki/Azure_DevOps_Server)
 
 [<img src="https://img.shields.io/badge/Operating%20System-Debian%20GNU%2FLinux-informational?&logo=debian&logoColor=white&color=%23A81D33">](https://en.wikipedia.org/wiki/Debian)
 [<img src="https://img.shields.io/badge/Operating%20System-Windows-informational?&logo=windows&logoColor=white&color=%230078D6">](https://en.wikipedia.org/wiki/Microsoft_Windows)
