@@ -15,6 +15,7 @@ You can know more about me visiting my profiles on social networks:
 [<img src="https://img.shields.io/badge/Hack%20the%20box-Trazi-informational?logo=hackthebox&logoColor=white&color=%239FEF00">](https://app.hackthebox.com/profile/1009738)
 
 ### ⚒️ Skills
+
 [<img src="https://img.shields.io/badge/Language-Python-informational?&logo=python&logoColor=white&color=%233776AB">](https://en.wikipedia.org/wiki/Python_(programming_language))
 [<img src="https://img.shields.io/badge/Language-VB.NET-informational?&logo=.net&logoColor=white&color=%23512BD4">](https://en.wikipedia.org/wiki/Visual_Basic_.NET)
 [<img src="https://img.shields.io/badge/Language-C%23-informational?&logo=.net&logoColor=white&color=%23512BD4">](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
@@ -38,4 +39,5 @@ You can know more about me visiting my profiles on social networks:
 [<img src="https://img.shields.io/badge/Operating%20System-Windows-informational?&logo=windows&logoColor=white&color=%230078D6">](https://en.wikipedia.org/wiki/Microsoft_Windows)
 
 ### :octocat: Github stats
+
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rubenhortas&count_private=true&show_icons=true&theme=dark"> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenhortas&layout=compact&theme=dark">
